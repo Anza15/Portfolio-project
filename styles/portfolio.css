@@ -1,0 +1,13 @@
+
+body {
+    background-color: pink;
+}
+h1 {
+    color: black;
+    font-family: "Poppins", sans-serif;
+    font-weight: bold;
+}
+p {
+    font-family: "Poppins", sans-serif;
+    font-weight: normal;
+}
